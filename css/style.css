@@ -26,3 +26,9 @@ figcaption {
 
 /* Class selector (applied to as many elements as you like) */
 
+.milk-text { /* select elements with class="milk-text"*/
+  font: bold 2.6em Georgia;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+  
+}
