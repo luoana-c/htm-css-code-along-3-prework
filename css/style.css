@@ -6,3 +6,9 @@ selector {
   property: value;
 }
 */
+
+/* Type selector */
+
+p{ /* select all <p> */
+  font-size: 16px;
+}
