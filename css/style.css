@@ -36,5 +36,5 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with the id=logo */
-  background-color: 
+  background-color: aqua;
 }
