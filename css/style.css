@@ -13,3 +13,7 @@ p{ /* select all <p> */
   font-size: 1em;
   line-height: 1.5em;
 }
+
+figcaption {
+  font-weight: normal;
+}
